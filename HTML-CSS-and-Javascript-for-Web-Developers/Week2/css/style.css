@@ -12,7 +12,7 @@ body {
     width: 100%;
 }
 
-.menu-title {
+.menu-title {       /* 타이틀 위치 */
     text-align: center;
     margin-bottom: 30px;
 }
@@ -38,7 +38,7 @@ body {
     font-size: 100%;
 }
 
-.item-title {
+.item-title {       /* 아이템 기본 설정 */
     position: absolute;
     top: 0;
     right: 0px;
